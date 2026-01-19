@@ -51,8 +51,7 @@ Churn indicator
 ## 📸 Dashboard Previews
 
 ### Churn Analysis Dashboard
-![Churn Analysis Dashboard](<img width="1788" height="731" alt="Screenshot 2026-01-20 005551" src="https://github.com/user-attachments/assets/5c70d65d-b71e-45a0-8036-0a8295acdf66" />
-)
+![Churn Analysis Dashboard]Screenshot 2026-01-20 005551.png
 
 ### Churn Prediction & Risk Segmentation Dashboard
 ![Churn Prediction Dashboard](<img width="1787" height="727" alt="Screenshot 2026-01-20 005527" src="https://github.com/user-attachments/assets/5600efd0-f488-4153-9b22-4b512401eb58" />
