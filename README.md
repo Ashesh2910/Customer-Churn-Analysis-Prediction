@@ -1,12 +1,12 @@
-📊 Customer Churn Analysis & Prediction
+## 📊 Customer Churn Analysis & Prediction
 
-Power BI + Python Machine Learning Project
+## Power BI + Python Machine Learning Project
 
-🔍 Project Overview
+## 🔍 Project Overview
 
 Customer churn is one of the biggest challenges for subscription-based businesses. This project delivers an end-to-end churn analytics and prediction solution designed to help organizations understand why customers leave, identify who is likely to churn next, and take proactive retention action.
 
-The solution combines:
+## The solution combines:
 
 Power BI for interactive business intelligence and storytelling
 
@@ -14,7 +14,7 @@ Python machine learning for customer-level churn prediction
 
 By integrating predictive outputs into a Power BI dashboard, this project bridges the gap between advanced analytics and business decision-making.
 
-💡 Business Problem
+## 💡 Business Problem
 
 Many companies rely on historical churn reports, which explain what already happened but fail to prevent future losses.
 
@@ -26,7 +26,7 @@ Prioritize retention efforts based on risk level
 
 Optimize decisions around contracts, pricing, and service offerings
 
-📊 Dataset
+## 📊 Dataset
 
 Source: Telco Customer Churn Dataset (Kaggle)
 
@@ -46,7 +46,18 @@ Monthly and total charges
 
 Churn indicator
 
-🛠 Tech Stack
+## 📸 Dashboard Previews
+
+### Churn Analysis Dashboard
+![Churn Analysis Dashboard](<img width="1788" height="731" alt="Screenshot 2026-01-20 005551" src="https://github.com/user-attachments/assets/29b1232f-797a-4b43-a354-f41f2afbf0da" />
+)
+
+### Churn Prediction & Risk Segmentation Dashboard
+![Churn Prediction Dashboard](<img width="1787" height="727" alt="Screenshot 2026-01-20 005527" src="https://github.com/user-attachments/assets/5050f4b5-9bf7-4463-9b69-f7c526ff259d" />
+)
+
+
+## 🛠 Tech Stack
 
 Power BI
 
@@ -70,8 +81,9 @@ Data Formats
 
 CSV / Excel
 
-🔄 Project Workflow
-1️⃣ Data Cleaning & Preparation
+## 🔄 Project Workflow
+
+# 1️⃣ Data Cleaning & Preparation
 
 Converted TotalCharges to numeric format
 
@@ -79,7 +91,7 @@ Handled missing values
 
 Created churn flag and model-ready features
 
-2️⃣ Churn Analysis (Power BI)
+# 2️⃣ Churn Analysis (Power BI)
 
 Overall churn rate
 
@@ -93,11 +105,11 @@ Payment method
 
 Comparison of tenure and charges between churned and retained customers
 
-3️⃣ Churn Prediction (Python)
+# 3️⃣ Churn Prediction (Python)
 
 Trained a Logistic Regression model
 
-Key features:
+## Key features:
 
 Tenure
 
@@ -117,7 +129,7 @@ ChurnProbability
 
 ChurnPredicted
 
-4️⃣ Prediction Dashboard (Power BI)
+# 4️⃣ Prediction Dashboard (Power BI)
 
 Integrated ML predictions into Power BI
 
@@ -131,7 +143,7 @@ Low Risk: < 0.40
 
 Built visuals for targeted retention analysis
 
-📌 Key Insights
+## 📌 Key Insights
 
 Month-to-month contracts have the highest churn rate
 
@@ -141,7 +153,7 @@ Early-tenure customers are especially vulnerable
 
 Customers without support and security services churn more often
 
-🎯 Business Recommendations
+## 🎯 Business Recommendations
 
 Based on the analysis and predictions:
 
@@ -153,7 +165,7 @@ Improve onboarding and engagement for new customers
 
 Bundle technical support and security services to increase stickiness
 
-📸 Dashboards Included
+## 📸 Dashboards Included
 
 Churn Analysis Dashboard
 Visualizes churn drivers and customer behavior
@@ -161,7 +173,7 @@ Visualizes churn drivers and customer behavior
 Churn Prediction & Risk Segmentation Dashboard
 Highlights high-risk customers to support targeted action
 
-🌱 Future Enhancements
+## 🌱 Future Enhancements
 
 Real-time churn scoring
 
@@ -171,6 +183,6 @@ Advanced models (XGBoost, Random Forest)
 
 CRM automation for retention actions
 
-🚀 Key Takeaway
+## 🚀 Key Takeaway
 
 This project demonstrates how analytics and machine learning can be operationalized to support real business outcomes. It moves beyond static reporting and delivers a proactive, insight-driven approach to customer retention.
