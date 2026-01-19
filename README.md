@@ -1,6 +1,15 @@
 ## 📊 Customer Churn Analysis & Prediction
 
 ## Power BI + Python Machine Learning Project
+## 📸 Dashboard Previews
+
+### Churn Analysis Dashboard
+![Churn Analysis Dashboard]<img width="1787" height="727" alt="Screenshot 2026-01-20 005527" src="https://github.com/user-attachments/assets/be0cb2b9-bc0a-4227-b938-bfcd85b61c85" />
+
+
+### Churn Prediction & Risk Segmentation Dashboard
+![Churn Prediction Dashboard]<img width="1788" height="731" alt="Screenshot 2026-01-20 005551" src="https://github.com/user-attachments/assets/d4ab8852-3bda-416c-a1c8-ec8d91ada34c" />
+
 
 ## 🔍 Project Overview
 
