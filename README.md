@@ -46,20 +46,6 @@ Monthly and total charges
 
 Churn indicator
 
-## 📸 Dashboard Previews
-
-## 📸 Dashboard Previews
-
-## 📸 Dashboard Previews
-
-### Churn Analysis Dashboard
-![Churn Analysis Dashboard](reports/screenshots/churn_analysis_dashboard.png)
-
-### Churn Prediction & Risk Segmentation Dashboard
-![Churn Prediction Dashboard](reports/screenshots/churn_prediction_dashboard.png)
-
-
-
 ## 🛠 Tech Stack
 
 Power BI
